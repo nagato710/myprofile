@@ -34,7 +34,7 @@ BODY {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: auto;
+    //margin-top: auto;
     color:white;
 }
 
