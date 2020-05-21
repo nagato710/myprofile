@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="HTMLPage.htm" />
     <None Include="StyleSheet.css" />
     <None Include="HTMLPage1.htm" />
     <None Include="StyleSheet1.css" />
     <None Include="HTMLPage2.htm" />
     <None Include="HTMLPage3.htm" />
+    <None Include="index.htm" />
   </ItemGroup>
 </Project>

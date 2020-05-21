@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="HTMLPage.htm">
+    <None Include="index.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="HTMLPage1.htm">
